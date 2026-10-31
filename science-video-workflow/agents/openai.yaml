@@ -1,0 +1,4 @@
+interface:
+  display_name: "科普视频制作工作流"
+  short_description: "从选题研究到成片、双语上传包与章节切片，保留语音问答，去除角色动画制作"
+  default_prompt: "使用 $science-video-workflow 制作或接续一期科普视频，读取目录规则与当前进度，从最早未完成的必要步骤继续。"
